@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  background-color: #0e1b27;
+  color: #b59f78;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
