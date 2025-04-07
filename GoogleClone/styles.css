@@ -21,7 +21,6 @@
 
 img {
   width: 300px;
-  /* display: block; */
 }
 
 .search-box {
@@ -33,7 +32,6 @@ img {
 input {
   width: 400px;
   border-radius: 12px;
-  /* display: block; */
 }
 
 .search-input::placeholder {
