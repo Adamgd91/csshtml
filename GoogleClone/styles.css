@@ -19,7 +19,7 @@
   /* border: 4px black solid; */
 }
 
-img {
+.logo-img {
   width: 300px;
 }
 
@@ -66,4 +66,10 @@ input {
 .green {
   background: #397327;
   height: 100px;
+}
+
+.goku {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
 }
