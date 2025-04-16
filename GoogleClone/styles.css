@@ -28,14 +28,17 @@
   display: flex;
   justify-content: center;
 }
+.search-input {
+  width: 400px;
+  height: 24px;
+  padding: 10px 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
 
 input {
   width: 400px;
   border-radius: 12px;
-}
-
-.search-input::placeholder {
-  padding-left: 4px;
 }
 
 .buttons {
