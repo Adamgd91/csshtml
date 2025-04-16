@@ -39,23 +39,19 @@ input {
 }
 
 .buttons {
-  margin-top: 15px;
+  margin: 15px 0px;
   display: flex;
-  /* width: 300px; */
   justify-content: center;
-  /* border: 2px yellowgreen dotted; */
   border-radius: 12%;
-  /* width: 50%; */
-  /* margin-left: 25%; */
+
   .search {
-    /* color: red; */
     margin-right: 20px;
   }
 }
 
 button {
   color: #b59f78;
-  border: 1px solid #cfd9de;
+  border: 1.5px solid #cfd9de;
   border-radius: 18px;
   background-color: white;
   padding: 10px 20px;
